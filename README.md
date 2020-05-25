@@ -1,5 +1,5 @@
 # Snake
-Basic snake game, developed with Direct-X and the Chili Framework
+One of my first programs, a basic snake game, developed with Direct-X and the Chili Framework
 
 - A more colorful twist to one of the first programs I learned to code
 - Download the .exe file in the release folder to play!
